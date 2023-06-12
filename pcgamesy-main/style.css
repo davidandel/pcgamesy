@@ -84,7 +84,7 @@ footer {
 .game-image {
     width: 400px;
     height: 400px;
-    border-radius: 10px;
+    border-radius: 10000000px;
 }
 img{
     aspect-ratio: 2/3;
