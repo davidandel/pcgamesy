@@ -8,11 +8,11 @@ function checkAnswers() {
 
     var score = 0;
 
-    if (form.question1.value === "b") {
+    if (form.question1.value === "a") {
         score++;
         result1.innerHTML = "Odpověď na otázku 1 je správná!";
     } else {
-        result1.innerHTML = "Odpověď na otázku 1 je nesprávná. Správná odpověď je: b) 16";
+        result1.innerHTML = "Odpověď na otázku 1 je nesprávná. Správná odpověď je: a) 1.9 ";
     }
 
     if (form.question2.value === "c") {
